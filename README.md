@@ -2,7 +2,7 @@
 <img src="connombre.PNG" style="height: 50%; width:100%;"/>
 
 <h1 align="center">Hi 👋, I'm Laura Navarro</h1>
-<h3 align="center">Mobile Developer</h3>
+<h3 align="center">Developer</h3>
 
 - 🔭 I’m currently working on **my own proyects in Java**
 

@@ -4,15 +4,11 @@
 <h1 align="center">Hi 👋, I'm Laura Navarro</h1>
 <h3 align="center">Mobile Developer</h3>
 
-- 🔭 I’m currently working on **my own proyects in Kotlin**
-
-- 🌱 I’m currently learning **Firebase**
+- 🔭 I’m currently working on **my own proyects in Java**
 
 - 👯 I’m looking to collaborate on **your bussines**
 
-- 👨‍💻 All of my projects are available at [https://lauranavarro1.000webhostapp.com/](https://lauranavarro1.000webhostapp.com/)
-
-- 💬 Ask me about **Kotlin**
+- 💬 Ask me about **Kotlin,Java,Html,CSS,mySQL, Oracle database**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
